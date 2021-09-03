@@ -3,6 +3,7 @@ package com.training.kstreams.bl;
 import com.training.kstreams.dal.BandRepository;
 import com.training.kstreams.model.Band;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.kafka.annotation.EnableKafkaStreams;
 import org.springframework.stereotype.Service;
 
 @Service

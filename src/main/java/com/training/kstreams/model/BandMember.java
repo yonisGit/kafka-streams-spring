@@ -13,3 +13,4 @@ public class BandMember {
     int age;
     Profession profession;
 }
+// {"id":1,"name":"John Petrucci","age": 51, "profession":"GUITAR"}
